@@ -1,0 +1,27 @@
+OUTPUT - 
+Enter number of elements in the data for donor : 4
+Param
+A positive
+City Hospital
+Banglore
+Name of the donor ,Donor's blood group, Name of the hospital, Branch name : 
+['Param', 'A positive', 'City Hospital', 'Banglore']
+The Dictionary form of above data is:
+{'Param': 'A positive', 'City Hospital': 'Banglore'}
+Enter number of elements in the data : 4
+Pavan
+B positive
+Royal Hospital
+Hubali
+Name of the recipients, Recipient's blood group, Name of the hospital, Branch name :
+['Pavan', 'B positive', 'Royal Hospital', 'Hubali']
+The Dictionary form of above data is:
+{'Pavan': 'B positive', 'Royal Hospital': 'Hubali'}
+Following are the rare blood groups in the recipient's hospital :
+O negative and AB negative
+Name of rare BG's is:
+O negative and AB negative
+The details of Donor :
+{'Param': 'A positive', 'City Hospital': 'Banglore'}
+The details of recipient :
+{'Pavan': 'B positive', 'Royal Hospital': 'Hubali'}
